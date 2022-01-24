@@ -1,2 +1,2 @@
 # searce_internship
-internship assignments
+This repository contains all the assignments and self practiced coding questions.
